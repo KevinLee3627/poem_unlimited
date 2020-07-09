@@ -1,0 +1,3 @@
+Idea:
+Randomly get or generate? a new poem with poetryDB
+and that's it! pretty bg?
